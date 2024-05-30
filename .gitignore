@@ -1,0 +1,6 @@
+# Ignore everything inside the 'env' directory
+env/*
+
+# Ignore .csv and .json files
+*.csv
+*.json
