@@ -1,5 +1,6 @@
 # Ignore everything inside the 'env' directory
 env/*
+statsEnv/*
 
 # Ignore .csv and .json files
 *.csv
