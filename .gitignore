@@ -1,6 +1,7 @@
 # Ignore everything inside the 'env' directory
 env/*
 statsEnv/*
+rainCloudEnv/*
 
 # Ignore .csv and .json files
 *.csv
