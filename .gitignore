@@ -1,5 +1,4 @@
 # Ignore everything inside the 'env' directory
-env/*
 statsEnv/*
 rainCloudEnv/*
 

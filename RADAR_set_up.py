@@ -12,7 +12,7 @@ detector.eval()
 detector.to(device)
 print("detector and tokeniser successfully loaded")
 
-# Helper function/s to assist with testing
+# Helper function to assist with testing
 def getRADARoutput(input:str) -> float:
     with torch.no_grad():
         inputs = tokenizer(input, padding=True, truncation=True, max_length=512, return_tensors="pt")
